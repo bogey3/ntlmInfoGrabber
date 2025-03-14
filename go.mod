@@ -1,4 +1,4 @@
-module ntlmInfoGrabber
+module github.com/bogey3/ntlmInfoGrabber
 
 go 1.18
 
