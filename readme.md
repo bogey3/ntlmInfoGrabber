@@ -8,6 +8,12 @@ This project allows you to retrieve and print NTLM (NT LAN Manager) challenge-re
 - Prints the NTLM details in a user-friendly format.
 - Simple command-line interface for quick usage.
 
+## Supported Protocols
+- SMB
+- SMTP
+- RDP
+- HTTP(S)
+
 ## Usage
 
 After building the executable, use it from the terminal as follows:
